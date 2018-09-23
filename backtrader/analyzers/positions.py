@@ -59,6 +59,8 @@ class PositionsValue(bt.Analyzer):
 
         Returns a dictionary with returns as values and the datetime points for
         each return as keys
+
+        -get ready, for now
     '''
     params = (
         ('headers',  False),
